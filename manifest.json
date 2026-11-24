@@ -1,0 +1,11 @@
+{
+  "name": "GTA Spotify Radio",
+  "description": "Use Spotify as a radio station in GTA V (Legacy & Enhanced). Companion extension for the GtaSpotify script: play/pause in your car, playlists, albums, covers and auto-ducking during dialogues.",
+  "preview": "preview.png",
+  "main": "gta-radio.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "lxaany", "url": "https://github.com/lxaany" }
+  ],
+  "tags": ["gta", "gaming", "radio", "integration"]
+}

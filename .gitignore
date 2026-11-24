@@ -1,0 +1,5 @@
+# Archivos personales que no se suben
+*.mp3
+*.log
+radios/
+logs/
